@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg-promise": "^10.11.1"
+  },
+  "scripts":{
+    "dev": "nodemon server localhost 3000"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

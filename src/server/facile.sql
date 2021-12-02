@@ -1,0 +1,6 @@
+CREATE DATABASE facile;
+
+CREATE TABLE test(
+id SERIAL PRIMARY KEY;
+name STRING;
+);
