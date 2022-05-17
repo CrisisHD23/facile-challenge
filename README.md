@@ -2,7 +2,7 @@ Eu não sou muito de fazer um README, então eu sinto muito se eu fiz algo de er
 
 INSTALAÇÃO:
 
-1. utilize o "yarn add" no terminal
+1. utilize o "yarn install" no terminal
 2. utilize o nodemon ou o "node server" para ativar a aplicação.
 
 FUNCIONAMENTO:
